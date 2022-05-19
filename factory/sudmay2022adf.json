@@ -1,0 +1,9 @@
+{
+	"name": "sudmay2022adf",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "3125b478-1b21-4878-84d8-4b4452a75bdb",
+		"tenantId": "d01db83f-9cf6-44b2-b880-f39383a8c0fc"
+	}
+}
